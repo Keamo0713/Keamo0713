@@ -1,5 +1,6 @@
-Hello there, I'm Keamogetsoe Kgomotso Nicole Sele 👋
-Transforming challenges into code, one commit at a time.
+Hello, World! Keamogetsoe Kgomotso Nicole Sele 👋
+
+A resilient developer specializing in AI and full-stack solutions.
 🚀 About Me
 My journey into software development has been anything but linear, shaped by resilience and an unyielding drive to find my true passion. After a pivotal detour from law, I discovered my calling in code and UX/UI. While unforeseen challenges forced a pause, my entrepreneurial spirit led me to ventures in real estate and event coordination, where I honed invaluable skills in project management, negotiation, and communication.
 
@@ -18,7 +19,7 @@ Databases & Other Skills
 
 Frontend
 
-HTML JavaScript React CSS
+HTML JavaScript CSS
 
 Azure DevOps
 
@@ -26,7 +27,7 @@ UI/UX Principles
 
 Backend
 
-C# .NET Java Python Kotlin PHP
+C# .NET Python Kotlin PHP
 
 Firebase Salesforce
 
@@ -49,7 +50,7 @@ Logical Thinking Agile Methodologies
 Continuous Learning
 
 💼 Work Experience
-Software Developer at Capaciti
+Software Developer at Capaciti <img src="https://sagea.org.za/wp-content/uploads/2024/02/CAPCITI-LOGO-V3-768x414.jpg" alt="Capaciti Logo" width="24" height="24"/>
 Current
 
 Participating in an intensive Artificial Intelligence (AI) Bootcamp to specialize in modern software development.
@@ -58,7 +59,7 @@ Developing practical AI applications and solutions through hands-on projects.
 
 Collaborating with experienced developers to learn best practices and industry standards.
 
-Realtor at Huizemark Plus
+Realtor at Huizemark Plus <img src="https://media.licdn.com/dms/image/C4D0BAQESL-SAPYip5w/company-logo_200_200/0?e=2159024400&v=beta&t=BWmdwxz6DPtsDOdiSfUaeT7W4v-7FW2566fvGt1sdcw" alt="Huizemark Plus Logo" width="24" height="24"/>
 August 2019 – February 2021
 
 Leveraged web-based tools for efficient client database management and communication.
@@ -68,7 +69,7 @@ Conducted comparative property analyses to inform effective marketing strategies
 Cultivated strong client relationships and provided exceptional service.
 
 🔑 Key Projects
-Real-time Two-Factor Security System
+Real-time Two-Factor Security System 🔐
 Hackathon Project
 
 Engineered a secure, real-time two-factor authentication system for sensitive document access.
