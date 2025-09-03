@@ -1,6 +1,7 @@
 Hello, World! Keamogetsoe Kgomotso Nicole Sele 👋
 
 A resilient developer specializing in AI and full-stack solutions.
+
 🚀 About Me
 My journey into software development has been anything but linear, shaped by resilience and an unyielding drive to find my true passion. After a pivotal detour from law, I discovered my calling in code and UX/UI. While unforeseen challenges forced a pause, my entrepreneurial spirit led me to ventures in real estate and event coordination, where I honed invaluable skills in project management, negotiation, and communication.
 
